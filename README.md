@@ -1,0 +1,1 @@
+The Parking Management System is a web-based application designed to efficiently manage vehicle entries, exits, and parking slot availability. It is built using Python, SQL, HTML, CSS, and JavaScript, ensuring seamless operation and real-time updates.
